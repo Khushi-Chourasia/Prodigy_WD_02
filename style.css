@@ -1,0 +1,45 @@
+* {
+    background-color: burlywood;
+    
+}  
+
+h1 {
+    text-shadow: 3px 3px 3px #9c6644;
+    font-size: 2.5rem;
+    font-family: Cursive, Geneva, Tahoma, sans-serif;
+    text-decoration-line: underline;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+  
+.container {
+    margin-top: 50px;
+}
+  
+.stopwatch {
+    margin-top: 20px;
+}
+  
+#display {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+  
+button {
+    font-size: 1.1em;
+    margin: 5px;
+    padding: 5px 15px;
+    cursor: pointer;
+}
+  
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+  
+li {
+    margin-bottom: 5px;
+}
